@@ -5,6 +5,21 @@
 
 /* Reset */
 
+.involvement{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 15px;
+	background-color: grey;
+
+}
+.involvementPast{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 15px;
+	background-color:lightseagreen;
+}
+
+
 .fancy{
 background: url("../../images/pic03.jpg");
 			background-size: cover;
